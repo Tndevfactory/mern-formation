@@ -54,7 +54,7 @@ const Login = () => {
             textAlign: "center",
           }}
         >
-          Login
+          Connexion
         </h2>
         <Form.Item
           label=" email"

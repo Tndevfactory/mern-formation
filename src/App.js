@@ -2,11 +2,12 @@ import "./App.css";
 
 import PublicLayout from "./layouts/PublicLayout";
 import Login from "./pages/Login";
+import Register from "./pages/Register";
 
 function App() {
   return (
     <PublicLayout>
-      <Login />
+      <Register />
     </PublicLayout>
   );
 }
